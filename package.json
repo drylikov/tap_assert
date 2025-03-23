@@ -1,0 +1,25 @@
+{
+  "name": "tap_assert",
+  "version": "0.0.11",
+  "description": "An assertion module that returns TAP result objects",
+  "main": "./assert.js",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/tap_assert.git"
+  },
+  "keywords": [
+    "assert",
+    "test",
+    "tap"
+  ],
+  "license": "ISC",
+  "contributors": [
+    "",
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
